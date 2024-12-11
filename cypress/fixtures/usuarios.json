@@ -1,0 +1,35 @@
+{
+    "usuarios": [
+      {
+        "name": "Goku",
+        "email": "goku@alura.com.br",
+        "password": "Kakaroto1"
+      },
+      {
+        "name": "Vegeta",
+        "email": "vegeta@alura.com.br",
+        "password": "Príncipe2"
+      },
+      {
+        "name": "Bulma",
+        "email": "bulma@alura.com.br",
+        "password": "Cientista3"
+      },
+      {
+        "name": "Piccolo",
+        "email": "piccolo@alura.com.br",
+        "password": "Namekusei4"
+      },
+      {
+        "name": "Gohan",
+        "email": "gohan@alura.com.br",
+        "password": "Gohan123"
+      },
+      {
+        "name": "Frieza",
+        "email": "frieza@alura.com.br",
+        "password": "ReiDoUni5"
+      }
+    ]
+  }
+  
